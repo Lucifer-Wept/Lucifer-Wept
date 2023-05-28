@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###Welcome to my Github page!!!
-##I am a student majoring in MIS
+### Welcome to my Github page!!!
+## I am a student majoring in MIS
 
 A very weird/interesting idea I have recently is to create a chatbot with model trained on data about myself. I know very little about machine learning and NLP but it I think it'll be cool to have someone exactly like yourself and be able to talk with that person.
 I know that it won't be easy work, but the idea intrigues me.
